@@ -6,7 +6,7 @@ Thanks to github.com/MadCzarls for setting up the initial repopsitory. I have be
 
 As I work through this book for a class that I am in I will update the repository.
 
-Feel free to fork the repo for your own use or to changeor add any problems that I have missed. 
+Feel free to fork the repo for your own use or to change or add any problems that I have missed. 
 
 
 
