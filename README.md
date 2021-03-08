@@ -1,4 +1,4 @@
-#THINK PYTHON
+<h1>THINK PYTHON
 
 This repo is for think python 2e problems at the end of each chapter.
 
