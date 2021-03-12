@@ -22,4 +22,8 @@ Hint: you might find the string method zfill useful.
 Solution: http://thinkpython2.com/code/cartalk3.py
 """
 
-# Couldn't figure it out by myself ;<
+def num_pal():
+    for i in range(0, 999999):
+        if str(i).zfill(6) == str(i).zfill(6)[::-1]:
+            print(str(i).zfill(6))
+num_pal()
